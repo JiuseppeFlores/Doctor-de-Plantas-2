@@ -1,0 +1,17 @@
+nav{
+    /*background: linear-gradient(rgba(26, 56, 4, 0.9), rgba(165, 214, 167, 0.8)),url(../images/background/background_head.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;*/
+    border-bottom: 3px solid rgb(43, 171, 84);
+}
+.nav-title{
+    font-size: 20px !important;
+    /*font-family: 'Mirza', cursive;*/
+    padding:0px !important;
+    margin:0px !important;
+    padding-left: 20px !important;
+    cursor: default;
+    user-select: none;
+    text-shadow: 2px 2px 1px rgba(26, 56, 4,0.5);
+}

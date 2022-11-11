@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@1,700&display=swap');
+
+html, body{
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+body{
+  background: linear-gradient(rgba(165, 214, 167, 0.7), rgba(26, 56, 4, 0.7)), url(../images/background/background_head.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+
+.titulo-card{
+  font-size: 35px;
+  font-family: 'Lobster Two', cursive;
+}
+
+.card-header{
+  padding: 0px 24px !important;
+}
